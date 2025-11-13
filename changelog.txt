@@ -1,0 +1,3 @@
+2025-11-12 22:40:32 | maribus | Add Main | Guild1 | Scopper | Tier: S+ | Languages: EN
+2025-11-12 22:40:37 | maribus | Change Tier | Guild1 | Scopper | S+ ? S
+2025-11-12 22:40:43 | maribus | Change Tier | Guild1 | Morihatha | S ? A
