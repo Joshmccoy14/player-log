@@ -2,3 +2,7 @@
 2025-11-12 22:40:37 | maribus | Change Tier | Guild1 | Scopper | S+ ? S
 2025-11-12 22:40:43 | maribus | Change Tier | Guild1 | Morihatha | S ? A
 2025-11-12 22:52:15 | Maribus | Change Tier | Guild1 | malok | B ? A
+2025-11-13 01:11:54 | Maribus | Remove Main | Guild1 | malok | Removed with all alts
+2025-11-13 01:11:58 | Maribus | Remove Main | Guild1 | Morihatha | Removed with all alts
+2025-11-13 01:12:31 | Maribus | Add Main | Guild1 | Nova | Tier: C | Languages: EN
+2025-11-13 01:12:49 | Maribus | Add Alt | Guild1 | Main: nova | Alt: Mochito
