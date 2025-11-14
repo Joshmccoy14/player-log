@@ -6,3 +6,79 @@
 2025-11-13 01:11:58 | Maribus | Remove Main | Guild1 | Morihatha | Removed with all alts
 2025-11-13 01:12:31 | Maribus | Add Main | Guild1 | Nova | Tier: C | Languages: EN
 2025-11-13 01:12:49 | Maribus | Add Alt | Guild1 | Main: nova | Alt: Mochito
+2025-11-13 19:51:30 | MARIBUS | Add Main | Guild1 | Elementalist | Tier: C | Languages: EN
+2025-11-13 19:51:45 | MARIBUS | Add Alt | Guild1 | Main: elementalist | Alt: Earthshaker
+2025-11-13 19:56:13 | MARIBUS | Add Main | Guild1 | doulmagus | Tier: C | Languages: EN
+2025-11-13 19:56:45 | MARIBUS | Add Alt | Guild1 | Main: doulmagus | Alt: halloy
+2025-11-13 19:56:56 | MARIBUS | Add Alt | Guild1 | Main: doulmagus | Alt: eric
+2025-11-13 19:57:43 | MARIBUS | Add Main | Guild1 | Hephaistos | Tier: C | Languages: EN
+2025-11-13 19:58:18 | MARIBUS | Add Main | Guild1 | Dioscures | Tier: C | Languages: EN
+2025-11-13 19:58:39 | MARIBUS | Add Main | Guild1 | Fitiavana | Tier: C | Languages: EN
+2025-11-13 19:58:54 | MARIBUS | Add Alt | Guild1 | Main: Fitiavana | Alt: MomSaidYes
+2025-11-13 19:59:40 | MARIBUS | Add Main | Guild1 | Radioactive | Tier: S | Languages: EN
+2025-11-13 20:00:15 | MARIBUS | Add Alt | Guild1 | Main: radioactive | Alt: Bestial
+2025-11-13 20:00:27 | MARIBUS | Add Alt | Guild1 | Main: radioactive | Alt: radia
+2025-11-13 20:00:51 | MARIBUS | Add Alt | Guild1 | Main: radioactive | Alt: radielle
+2025-11-13 20:01:09 | MARIBUS | Add Main | Guild1 | push | Tier: C | Languages: EN
+2025-11-13 20:01:16 | MARIBUS | Add Alt | Guild1 | Main: push | Alt: parry
+2025-11-13 20:02:36 | MARIBUS | Add Main | Guild1 | prince | Tier: C | Languages: EN
+2025-11-13 20:02:43 | MARIBUS | Add Alt | Guild1 | Main: prince | Alt: horror
+2025-11-13 20:03:31 | MARIBUS | Add Main | Guild1 | Isselia | Tier: C | Languages: EN
+2025-11-13 20:03:42 | MARIBUS | Add Alt | Guild1 | Main: Isselia | Alt: Ezcaramel
+2025-11-13 20:04:13 | MARIBUS | Add Main | Guild1 | Missclick | Tier: C | Languages: EN
+2025-11-13 20:04:20 | MARIBUS | Add Alt | Guild1 | Main: Missclick | Alt: missplay
+2025-11-13 20:04:29 | MARIBUS | Add Alt | Guild1 | Main: Missclick | Alt: missora
+2025-11-13 20:04:37 | MARIBUS | Add Alt | Guild1 | Main: Missclick | Alt: missbuff
+2025-11-13 20:05:11 | MARIBUS | Add Main | Guild1 | Baroski | Tier: C | Languages: EN
+2025-11-13 20:05:19 | MARIBUS | Add Alt | Guild1 | Main: Baroski | Alt: tanadps
+2025-11-13 20:05:26 | MARIBUS | Add Alt | Guild1 | Main: Baroski | Alt: blyat
+2025-11-13 20:05:36 | MARIBUS | Add Main | Guild1 | hisogus | Tier: C | Languages: EN
+2025-11-13 20:05:46 | MARIBUS | Add Alt | Guild1 | Main: hisogus | Alt: hisop
+2025-11-13 20:06:04 | MARIBUS | Remove Alt | Guild1 | Main: hisogus | Alt: hisop
+2025-11-13 20:06:17 | MARIBUS | Add Alt | Guild1 | Main: hisogus | Alt: hiso
+2025-11-13 20:06:23 | MARIBUS | Change Tier | Guild1 | hisogus | C ? S
+2025-11-13 20:07:55 | MARIBUS | Add Main | Guild1 | batterypowered | Tier: A | Languages: EN
+2025-11-13 20:08:13 | MARIBUS | Add Alt | Guild1 | Main: batterypowered | Alt: without
+2025-11-13 20:08:56 | MARIBUS | Add Main | Guild1 | Kalimephisto | Tier: C | Languages: EN
+2025-11-13 20:09:06 | MARIBUS | Add Alt | Guild1 | Main: Kalimephisto | Alt: alumbra
+2025-11-13 20:09:14 | MARIBUS | Add Alt | Guild1 | Main: Kalimephisto | Alt: gertrude
+2025-11-13 20:09:49 | MARIBUS | Remove Alt | Guild1 | Main: Kalimephisto | Alt: alumbra
+2025-11-13 20:11:50 | MARIBUS | Add Main | Guild1 | Nolie | Tier: C | Languages: EN
+2025-11-13 20:12:29 | MARIBUS | Add Main | Guild1 | Lina | Tier: S | Languages: EN
+2025-11-13 20:12:38 | MARIBUS | Add Alt | Guild1 | Main: Lina | Alt: missteke
+2025-11-13 20:12:50 | MARIBUS | Add Alt | Guild1 | Main: Lina | Alt: wikipedia
+2025-11-13 20:12:58 | MARIBUS | Add Alt | Guild1 | Main: Lina | Alt: marci
+2025-11-13 20:14:15 | MARIBUS | Add Main | Guild1 | koutei | Tier: S | Languages: EN
+2025-11-13 20:14:28 | MARIBUS | Add Alt | Guild1 | Main: koutei | Alt: kaiser
+2025-11-13 20:14:53 | MARIBUS | Add Alt | Guild1 | Main: koutei | Alt: smokebreak
+2025-11-13 20:16:03 | MARIBUS | Add Main | Guild1 | Giorgio | Tier: S | Languages: EN
+2025-11-13 20:16:20 | MARIBUS | Add Alt | Guild1 | Main: Giorgio | Alt: Armani
+2025-11-13 20:17:27 | MARIBUS | Add Alt | Guild1 | Main: Giorgio | Alt: Giorgioleveling
+2025-11-13 20:17:42 | MARIBUS | Add Alt | Guild1 | Main: Giorgio | Alt: giofarm
+2025-11-13 20:18:01 | MARIBUS | Add Alt | Guild1 | Main: Giorgio | Alt: giiorgio
+2025-11-13 20:18:52 | MARIBUS | Add Alt | Guild1 | Main: Giorgio | Alt: armanii
+2025-11-13 20:20:51 | MARIBUS | Add Main | Guild1 | Zero | Tier: S | Languages: EN
+2025-11-13 20:21:01 | MARIBUS | Add Alt | Guild1 | Main: zero | Alt: niffty
+2025-11-13 20:21:40 | MARIBUS | Add Main | Guild1 | Mikassa | Tier: C | Languages: EN
+2025-11-13 20:21:47 | MARIBUS | Add Alt | Guild1 | Main: Mikassa | Alt: Mikasa
+2025-11-13 20:22:28 | MARIBUS | Add Main | Guild1 | Coalminer | Tier: S | Languages: EN
+2025-11-13 20:22:44 | MARIBUS | Add Main | Guild1 | Karvade | Tier: A | Languages: EN
+2025-11-13 20:23:11 | MARIBUS | Add Alt | Guild1 | Main: Karvade | Alt: Karvad
+2025-11-13 20:23:21 | MARIBUS | Add Alt | Guild1 | Main: Karvade | Alt: Karvadv
+2025-11-13 20:24:42 | MARIBUS | Add Alt | Guild1 | Main: Karvade | Alt: Karvan
+2025-11-13 20:25:32 | MARIBUS | Add Alt | Guild1 | Main: Karvade | Alt: Karvanemb
+2025-11-13 20:26:00 | MARIBUS | Add Main | Guild1 | Tehninja | Tier: C | Languages: EN
+2025-11-13 20:26:49 | MARIBUS | Add Main | Guild1 | Malok | Tier: A | Languages: EN
+2025-11-13 20:27:29 | MARIBUS | Add Main | Guild1 | Rushenslip | Tier: C | Languages: EN
+2025-11-13 20:28:50 | MARIBUS | Add Alt | Guild1 | Main: Rushenslip | Alt: kickmmybouls
+2025-11-13 20:30:09 | MARIBUS | Add Main | Guild1 | Majintebo | Tier: C | Languages: EN
+2025-11-13 20:31:13 | MARIBUS | Add Main | Guild1 | ariugz | Tier: S+ | Languages: EN
+2025-11-13 20:31:45 | MARIBUS | Add Main | Guild1 | Known | Tier: C | Languages: EN
+2025-11-13 20:32:01 | MARIBUS | Add Main | Guild1 | Leave | Tier: C | Languages: EN
+2025-11-13 20:32:31 | MARIBUS | Add Alt | Guild1 | Main: scopper | Alt: morihatha\
+2025-11-13 20:32:47 | MARIBUS | Add Main | Guild1 | Mrkiller | Tier: S+ | Languages: EN
+2025-11-13 20:33:11 | MARIBUS | Add Alt | Guild1 | Main: Mrkiller | Alt: mrset
+2025-11-13 20:33:24 | MARIBUS | Add Alt | Guild1 | Main: Mrkiller | Alt: mymerchero
+2025-11-13 20:34:08 | MARIBUS | Add Main | Guild1 | Roger | Tier: S | Languages: EN
+2025-11-13 20:34:22 | MARIBUS | Add Alt | Guild1 | Main: roger | Alt: Roger1
+2025-11-13 20:34:30 | MARIBUS | Add Alt | Guild1 | Main: roger | Alt: Rogerv2
