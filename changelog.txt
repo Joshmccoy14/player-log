@@ -82,3 +82,5 @@
 2025-11-13 20:34:08 | MARIBUS | Add Main | Guild1 | Roger | Tier: S | Languages: EN
 2025-11-13 20:34:22 | MARIBUS | Add Alt | Guild1 | Main: roger | Alt: Roger1
 2025-11-13 20:34:30 | MARIBUS | Add Alt | Guild1 | Main: roger | Alt: Rogerv2
+2025-11-13 20:39:24 | MARIBUS | Add Main | Guild1 | Zooverpower | Tier: S | Languages: EN
+2025-11-13 20:39:48 | MARIBUS | Add Alt | Guild1 | Main: Zooverpower | Alt: 9oraysa
