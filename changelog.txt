@@ -84,3 +84,11 @@
 2025-11-13 20:34:30 | MARIBUS | Add Alt | Guild1 | Main: roger | Alt: Rogerv2
 2025-11-13 20:39:24 | MARIBUS | Add Main | Guild1 | Zooverpower | Tier: S | Languages: EN
 2025-11-13 20:39:48 | MARIBUS | Add Alt | Guild1 | Main: Zooverpower | Alt: 9oraysa
+2025-11-14 20:24:37 | maribus | Add Alt | Guild1 | Main: zero | Alt: 4547
+2025-11-14 20:25:02 | maribus | Add Alt | Guild1 | Main: lina | Alt: seen
+2025-11-14 20:25:33 | maribus | Add Main | Guild1 | Elyndel | Tier: C | Languages: EN
+2025-11-14 20:26:52 | maribus | Add Main | Guild1 | Desrespect | Tier: C | Languages: EN
+2025-11-14 20:27:03 | maribus | Add Alt | Guild1 | Main: Desrespect | Alt: aladin
+2025-11-14 20:28:39 | maribus | Add Main | Guild1 | Fanagorian | Tier: C | Languages: EN
+2025-11-14 20:28:44 | maribus | Add Alt | Guild1 | Main: Fanagorian | Alt: Fanagoria
+2025-11-14 20:34:25 | maribus | Add Alt | Guild1 | Main: ariugz | Alt: baan
